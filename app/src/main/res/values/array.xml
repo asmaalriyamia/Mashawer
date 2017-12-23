@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user_type">
+        <item>Customer</item>
+        <item>Driver</item>
+    </string-array>
+
+    <string-array name="Welayat_from">
+        <item>From</item>
+        <item>Mubailla</item>
+        <item>Mawalih</item>
+        <item>Khuwair</item>
+    </string-array>
+
+    <string-array name="Wilayat_to">
+        <item>To</item>
+        <item>AL-Rusail</item>
+        <item>Busher</item>
+        <item>Al-Amrat</item>
+    </string-array>
+</resources>
